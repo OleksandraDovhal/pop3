@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file />
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>G:\Work\3 course\POP\3\ada\lab3.gpr</vfs_project>
+      <vfs_file>G:\Work\3 course\POP\3\ada\src\main2.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 7" >
+      <vfs_project>G:\Work\3 course\POP\3\ada\lab3.gpr</vfs_project>
+      <vfs_file>G:\Work\3 course\POP\3\ada\src\main2.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 40" line=" 46" >
+      <vfs_project>G:\Work\3 course\POP\3\ada\lab3.gpr</vfs_project>
+      <vfs_file>G:\Work\3 course\POP\3\ada\src\main2.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 7" >
+      <vfs_project>G:\Work\3 course\POP\3\ada\lab3.gpr</vfs_project>
+      <vfs_file>G:\Work\3 course\POP\3\ada\src\main2.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 31" >
+      <vfs_project>G:\Work\3 course\POP\3\ada\lab3.gpr</vfs_project>
+      <vfs_file>G:\Work\3 course\POP\3\ada\src\main2.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 7" >
+      <vfs_project>G:\Work\3 course\POP\3\ada\lab3.gpr</vfs_project>
+      <vfs_file>G:\Work\3 course\POP\3\ada\src\main2.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 19" >
+      <vfs_project>G:\Work\3 course\POP\3\ada\lab3.gpr</vfs_project>
+      <vfs_file>G:\Work\3 course\POP\3\ada\src\main2.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 22" line=" 66" >
+      <vfs_project>G:\Work\3 course\POP\3\ada\lab3.gpr</vfs_project>
+      <vfs_file>G:\Work\3 course\POP\3\ada\src\main2.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 23" line=" 44" >
+      <vfs_project>G:\Work\3 course\POP\3\ada\lab3.gpr</vfs_project>
+      <vfs_file>G:\Work\3 course\POP\3\ada\src\main2.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 21" line=" 30" >
+      <vfs_project>G:\Work\3 course\POP\3\ada\lab3.gpr</vfs_project>
+      <vfs_file>G:\Work\3 course\POP\3\ada\src\main2.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 28" >
+      <vfs_project>G:\Work\3 course\POP\3\ada\lab3.gpr</vfs_project>
+      <vfs_file>G:\Work\3 course\POP\3\ada\src\main2.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 11" line=" 7" >
+      <vfs_project>G:\Work\3 course\POP\3\ada\lab3.gpr</vfs_project>
+      <vfs_file>G:\Work\3 course\POP\3\ada\src\main2.adb</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <vfs_file >G:\Work\3 course\POP\3\ada\lab3.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >G:\Work\3 course\POP\3\ada\lab3.gpr</vfs_project>
+      <vfs_file >G:\Work\3 course\POP\3\ada\src\main2.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 11" line=" 7">
+      <vfs_project >G:\Work\3 course\POP\3\ada\lab3.gpr</vfs_project>
+      <vfs_file >G:\Work\3 course\POP\3\ada\src\main2.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

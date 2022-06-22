@@ -1,0 +1,1 @@
+main.adb:16:10: error: missing "begin" for procedure "Main" at line 4

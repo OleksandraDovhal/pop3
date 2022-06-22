@@ -1,0 +1,15 @@
+G:\Work\3 course\POP\3\c#\lab3\lab3\bin\Debug\net6.0\lab3.exe
+G:\Work\3 course\POP\3\c#\lab3\lab3\bin\Debug\net6.0\lab3.deps.json
+G:\Work\3 course\POP\3\c#\lab3\lab3\bin\Debug\net6.0\lab3.runtimeconfig.json
+G:\Work\3 course\POP\3\c#\lab3\lab3\bin\Debug\net6.0\lab3.dll
+G:\Work\3 course\POP\3\c#\lab3\lab3\bin\Debug\net6.0\lab3.pdb
+G:\Work\3 course\POP\3\c#\lab3\lab3\obj\Debug\net6.0\lab3.csproj.AssemblyReference.cache
+G:\Work\3 course\POP\3\c#\lab3\lab3\obj\Debug\net6.0\lab3.GeneratedMSBuildEditorConfig.editorconfig
+G:\Work\3 course\POP\3\c#\lab3\lab3\obj\Debug\net6.0\lab3.AssemblyInfoInputs.cache
+G:\Work\3 course\POP\3\c#\lab3\lab3\obj\Debug\net6.0\lab3.AssemblyInfo.cs
+G:\Work\3 course\POP\3\c#\lab3\lab3\obj\Debug\net6.0\lab3.csproj.CoreCompileInputs.cache
+G:\Work\3 course\POP\3\c#\lab3\lab3\obj\Debug\net6.0\lab3.dll
+G:\Work\3 course\POP\3\c#\lab3\lab3\obj\Debug\net6.0\refint\lab3.dll
+G:\Work\3 course\POP\3\c#\lab3\lab3\obj\Debug\net6.0\lab3.pdb
+G:\Work\3 course\POP\3\c#\lab3\lab3\obj\Debug\net6.0\lab3.genruntimeconfig.cache
+G:\Work\3 course\POP\3\c#\lab3\lab3\obj\Debug\net6.0\ref\lab3.dll
